@@ -32,25 +32,16 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 
 # 📝 Publications 
-
-<div class='paper-box-text' markdown="1">
-
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Li, P., Guo, S., Zhang, C., Parvej, M. M., & Zhang, J. (2024). A Construction Method for a Dynamic Weighted Protein Network Using Multi-Level Embedding. Applied Sciences, 14(10), 4090.
+- Li, P., Parvej, M. M., Zhang, C., Guo, S., & Zhang, J. (2023). Advances in the Development of Representation Learning and Its Innovations against COVID-19. COVID, 3(9), 1389-1415.
+- Zhang, T. C., Zhang, J., Feng, T., Zhao, M. H., Saada, B., & Li, P. (2022). A Novel Two Phases Petri Net Image Segmentation Based on Rough Sets and Roughness Entropy. Optik, 259, 168912.
 
 # 🎖 Honors and Awards
   - *2024.01* Outstanding Graduate of Shandong Province.  
 
 # 📖 Educations
-- *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA. 
+- *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
+- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China 
 
 # 💬 Invited Talks
 
