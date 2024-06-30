@@ -20,7 +20,7 @@ redirect_from:
 
 I'm a first-year PhD student from [College of Medicine](https://medicine.osu.edu/), [The Ohio State University](https://www.osu.edu/). My research interests include renal cell carcinoma, brain metastasis, machine learning, and bioinformatics.
 
-I am very fortunate to be advised by [Dr. Elshad Hasanov](https://cancer.osu.edu/find-a-doctor/search-physician-directory/elshad-hasanov/) of Hasanov Lab from [The Ohio State University Comprehensive Cancer Center – The James](https://cancer.osu.edu/), The Ohio State University.
+I am very fortunate to be advised by [Dr. Elshad Hasanov](https://cancer.osu.edu/find-a-doctor/search-physician-directory/elshad-hasanov/) of Hasanov Lab from [The Ohio State University Comprehensive Cancer Center – The James](https://cancer.osu.edu/).
 
 You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
