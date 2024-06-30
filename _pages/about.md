@@ -21,6 +21,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
+I'm a first-year PhD student from [College of Medicine](https://medicine.osu.edu/), [The Ohio State University](https://www.osu.edu/). My research interests include renal cell carcinoma, brain metastasis, machine learning, and bioinformatics.
+
+      I am very fortunate to be advised by [Dr. Elshad Hasanov](https://cancer.osu.edu/find-a-doctor/search-physician-directory/elshad-hasanov) of Hasanov Lab from [The Ohio State University Comprehensive Cancer Center – The James](https://cancer.osu.edu/), The Ohio State University. I was advised by [Prof. Jing Zhang]() from [School of Information and Science Engineering](https://cs.pku.edu.cn/), University of Jinan.
+
+You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
+
+[Email](li.15176@osu.edu) / [Github](https://penglee13.github.io) / [Wechat](../images/wechat.jpg) / [CSDN](https://blog.csdn.net/qd1813100174?spm=1000.2115.3001.5343)
+
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
