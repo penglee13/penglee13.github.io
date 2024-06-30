@@ -28,8 +28,9 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 
 # 🔥 News
+- *2024.03 - 2024.08*, Visiting Scholar, College of Medicine, The Ohio State University.
 - *2024.03*: &nbsp;🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. Served as a visiting scholar before enrollment. 
-
+  
 
 # 📝 Publications 
 - **Li, P.**, Guo, S., Zhang, C., Parvej, M. M., & Zhang, J. (2024). A Construction Method for a Dynamic Weighted Protein Network Using Multi-Level Embedding. Applied Sciences, 14(10), 4090.
@@ -41,7 +42,7 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 # 📖 Educations
 - *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
-- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China 
+- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China.
 
 # 💬 Invited Talks
 
