@@ -29,7 +29,7 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 # 🔥 News
 - *2024.03 - 2024.08*, Visiting Scholar, College of Medicine, The Ohio State University.
-- *2024.03*: &nbsp;🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. Served as a visiting scholar before enrollment. 
+- *2024.03*: &nbsp;🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. 
   
 
 # 📝 Publications 
