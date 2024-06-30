@@ -32,9 +32,9 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 
 # 📝 Publications 
-- Li, P., Guo, S., Zhang, C., Parvej, M. M., & Zhang, J. (2024). A Construction Method for a Dynamic Weighted Protein Network Using Multi-Level Embedding. Applied Sciences, 14(10), 4090.
-- Li, P., Parvej, M. M., Zhang, C., Guo, S., & Zhang, J. (2023). Advances in the Development of Representation Learning and Its Innovations against COVID-19. COVID, 3(9), 1389-1415.
-- Zhang, T. C., Zhang, J., Feng, T., Zhao, M. H., Saada, B., & Li, P. (2022). A Novel Two Phases Petri Net Image Segmentation Based on Rough Sets and Roughness Entropy. Optik, 259, 168912.
+- **Li, P.**, Guo, S., Zhang, C., Parvej, M. M., & Zhang, J. (2024). A Construction Method for a Dynamic Weighted Protein Network Using Multi-Level Embedding. Applied Sciences, 14(10), 4090.
+- **Li, P.**, Parvej, M. M., Zhang, C., Guo, S., & Zhang, J. (2023). Advances in the Development of Representation Learning and Its Innovations against COVID-19. COVID, 3(9), 1389-1415.
+- Zhang, T. C., Zhang, J., Feng, T., Zhao, M. H., Saada, B., & **Li, P**. (2022). A Novel Two Phases Petri Net Image Segmentation Based on Rough Sets and Roughness Entropy. Optik, 259, 168912.
 
 # 🎖 Honors and Awards
   - *2024.01* Outstanding Graduate of Shandong Province.  
