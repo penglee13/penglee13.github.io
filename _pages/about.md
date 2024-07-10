@@ -24,7 +24,7 @@ I am very fortunate to be advised by [Dr. Elshad Hasanov](https://cancer.osu.edu
 
 You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[<a href="mailto:li.15176@osu.edu">Email</a>] / [Github](https://penglee13.github.io) / [Wechat](../images/wechat.jpg)
+[Email](mailto:li.15176@osu.edu) / [Github](https://penglee13.github.io) / [Wechat](../images/wechat.jpg)
 
 
 # 🔥 News
