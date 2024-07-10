@@ -30,7 +30,14 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 # 🔥 News
 - *2024.03 - 2024.08*, Visiting Scholar, College of Medicine, The Ohio State University.
 - *2024.03*: 🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. 
-  
+
+# 📖 Educations
+- *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
+- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China.
+- *2016.09 - 2020.06*, Taishan University, Taian, Shandong, China.
+
+# 💻 Internships
+- *2020.03 - 2020.06*, Java Development Engineer Intern, Digital China Holdings Limited, China.
 
 # 📝 Publications 
 - **Li, P.**, Guo, S., Zhang, C., Parvej, M. M., & Zhang, J. (2024). A Construction Method for a Dynamic Weighted Protein Network Using Multi-Level Embedding. Applied Sciences, 14(10), 4090.
@@ -57,10 +64,3 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
   - *2022.12*, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022)
   - *2022.12*, China National Computer Congress (CNCC 2022)
 
-# 📖 Educations
-- *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
-- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China.
-- *2016.09 - 2020.06*, Taishan University, Taian, Shandong, China.
-
-# 💻 Internships
-- *2020.03 - 2020.06*, Java Development Engineer Intern, Digital China Holdings Limited, China.
