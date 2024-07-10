@@ -29,7 +29,7 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 # 🔥 News
 - *2024.03 - 2024.08*, Visiting Scholar, College of Medicine, The Ohio State University.
-- *2024.03*: &nbsp;🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. 
+- *2024.03*: 🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. 
   
 
 # 📝 Publications 
@@ -41,21 +41,21 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 - The 5th China Competition on Virtual Reality-CCVR 2022 (Collaborating with IEEE Computer Society). *The Third Prize*.
 
 # 🎖 Honors and Awards
-  - *2024.06* Outstanding Graduate
-  - *2024.01* Outstanding Graduate of Shandong Province.
-  - *2023.09* The First Prize Scholarship
-  - *2023.09* Excellent Student
-  - *2023.05* Outstanding League Cadre
-  - *2022.11* Excellent Student
-  - *2022.11* Excellent Student Cadre
-  - *2022.03* Excellent League Member of College
-  - *2017.11* Individual Scholarship
-  - *2017.04* Excellent Students of the college
+  - *2024.06*, Outstanding Graduate
+  - *2024.01*, Outstanding Graduate of Shandong Province.
+  - *2023.09*, The First Prize Scholarship
+  - *2023.09*, Excellent Student
+  - *2023.05*, Outstanding League Cadre
+  - *2022.11*, Excellent Student
+  - *2022.11*, Excellent Student Cadre
+  - *2022.03*, Excellent League Member of College
+  - *2017.11*, Individual Scholarship
+  - *2017.04*, Excellent Students of the college
 
 # 💻 Conference attended
-  - *2023.05* Shandong Conference of Computational Intelligence (SCCI 2023)
-  - *2022.12* IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022)
-  - *2022.12* China National Computer Congress (CNCC 2022)
+  - *2023.05*, Shandong Conference of Computational Intelligence (SCCI 2023)
+  - *2022.12*, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022)
+  - *2022.12*, China National Computer Congress (CNCC 2022)
 
 # 📖 Educations
 - *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
