@@ -38,7 +38,7 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 - Zhang, T. C., Zhang, J., Feng, T., Zhao, M. H., Saada, B., & **Li, P**. (2022). A Novel Two Phases Petri Net Image Segmentation Based on Rough Sets and Roughness Entropy. Optik, 259, 168912.
 
 # 🎯 Competitions
-- The 5th China Competition on Virtual Reality-CCVR 2022 (Collaborating with IEEE Computer Society). *The Third Prize*.
+- The 5th China Competition on Virtual Reality-CCVR 2022 (Collaborating with IEEE Computer Society). **The Third Prize**.
 
 # 🎖 Honors and Awards
   - *2024.06*, Outstanding Graduate
