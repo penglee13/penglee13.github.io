@@ -24,20 +24,12 @@ I am very fortunate to be advised by [Dr. Elshad Hasanov](https://cancer.osu.edu
 
 You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:li.15176@osu.edu) / [Github](https://penglee13.github.io) / [Wechat](../images/wechat.jpg)
+[Email](li.15176@osu.edu) / [Github](https://penglee13.github.io) / [Wechat](../images/wechat.jpg)
 
 
 # 🔥 News
 - *2024.03 - 2024.08*, Visiting Scholar, College of Medicine, The Ohio State University.
 - *2024.03*: 🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. 
-
-# 📖 Educations
-- *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
-- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China.
-- *2016.09 - 2020.06*, Taishan University, Taian, Shandong, China.
-
-# 💻 Internships
-- *2020.03 - 2020.06*, Java Development Engineer Intern, Digital China Holdings Limited, China.
 
 # 📝 Publications 
 - **Li, P.**, Guo, S., Zhang, C., Parvej, M. M., & Zhang, J. (2024). A Construction Method for a Dynamic Weighted Protein Network Using Multi-Level Embedding. Applied Sciences, 14(10), 4090.
@@ -58,6 +50,14 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
   - *2022.03*, Excellent League Member of College
   - *2017.11*, Individual Scholarship
   - *2017.04*, Excellent Students of the college
+
+# 📖 Educations
+- *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
+- *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China.
+- *2016.09 - 2020.06*, Taishan University, Taian, Shandong, China.
+
+# 💻 Internships
+- *2020.03 - 2020.06*, Java Development Engineer Intern, Digital China Holdings Limited, China.
 
 # 💻 Conference attended
   - *2023.05*, Shandong Conference of Computational Intelligence (SCCI 2023)
