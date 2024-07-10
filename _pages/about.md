@@ -37,14 +37,30 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 - **Li, P.**, Parvej, M. M., Zhang, C., Guo, S., & Zhang, J. (2023). Advances in the Development of Representation Learning and Its Innovations against COVID-19. COVID, 3(9), 1389-1415.
 - Zhang, T. C., Zhang, J., Feng, T., Zhao, M. H., Saada, B., & **Li, P**. (2022). A Novel Two Phases Petri Net Image Segmentation Based on Rough Sets and Roughness Entropy. Optik, 259, 168912.
 
+# 🎯 Competitions
+- The 5th China Competition on Virtual Reality-CCVR 2022 (Collaborating with IEEE Computer Society). *The Third Prize*.
+
 # 🎖 Honors and Awards
-  - *2024.01* Outstanding Graduate of Shandong Province.  
+  - *2024.06* Outstanding Graduate
+  - *2024.01* Outstanding Graduate of Shandong Province.
+  - *2023.09* The First Prize Scholarship
+  - *2023.09* Excellent Student
+  - *2023.05* Outstanding League Cadre
+  - *2022.11* Excellent Student
+  - *2022.11* Excellent Student Cadre
+  - *2022.03* Excellent League Member of College
+  - *2017.11* Individual Scholarship
+  - *2017.04* Excellent Students of the college
+
+# 💻 Conference attended
+  - *2023.05* Shandong Conference of Computational Intelligence (SCCI 2023)
+  - *2022.12* IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022)
+  - *2022.12* China National Computer Congress (CNCC 2022)
 
 # 📖 Educations
 - *2024.08 - Present*, The Ohio State University, Columbus, Ohio, USA.
 - *2021.09 - 2024.06*, University of Jinan, Jinan, Shandong, China.
-
-# 💬 Invited Talks
+- *2016.09 - 2020.06*, Taishan University, Taian, Shandong, China.
 
 # 💻 Internships
 - *2020.03 - 2020.06*, Java Development Engineer Intern, Digital China Holdings Limited, China.
