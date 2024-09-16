@@ -28,7 +28,10 @@ author:
      Division of Medical Oncology,
      The James Comprehensive Cancer Center,
      The Ohio State University
-  location         : "Pelotonia Research Center, <br> 2255 Kenny Road, <br> Columbus, OH 43210"
+  location         :  >
+  Pelotonia Research Center,<br>
+  2255 Kenny Road,<br>
+  Columbus, OH 43210
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
