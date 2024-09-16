@@ -23,8 +23,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Peng Li"
   avatar           : "images/Peng.jpeg"
-  bio              : "The Ohio State University"
-  location         : "Pelotonia Research Center, <br> 2255 Kenny Road, <br> room 3150 (lab), <br> Columbus, OH 43210"
+  bio              : |
+     Department of Internal Medicine
+     Division of Medical Oncology
+     The James Comprehensive Cancer Center
+     The Ohio State University
+  location         : |
+     Pelotonia Research Center
+     2255 Kenny Road
+     Columbus, OH 43210
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
