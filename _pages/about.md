@@ -60,8 +60,8 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 - *2020.03 - 2020.06*, Java Development Engineer Intern, Digital China Holdings Limited, China.
 
 # 💻 Conference attended
-  - *2024.10*, Assay Development of Cellular Models
-  - *2024.09*, OSU Digital Pathology Workshop
+  - *2024.10*, Revvity Assay Development of Cellular Models Seminar
+  - *2024.09*, 2024 OSU Digital Pathology Workshop
   - *2023.05*, Shandong Conference of Computational Intelligence (SCCI 2023)
   - *2022.12*, IEEE International Conference on Bioinformatics and Biomedicine (BIBM 2022)
   - *2022.12*, China National Computer Congress (CNCC 2022)
