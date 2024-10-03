@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 😊 About me
-I'm a first-year PhD student from [College of Medicine](https://medicine.osu.edu/), [The Ohio State University](https://www.osu.edu/). My research interests include renal cell carcinoma, brain metastasis, machine learning, and bioinformatics.
+I'm a first-year PhD student from [College of Medicine](https://medicine.osu.edu/), [The Ohio State University](https://www.osu.edu/). My research field is cancer biology. My research interests include renal cell carcinoma, brain metastasis, machine learning, and bioinformatics.
 
 I am very fortunate to be advised by [Dr. Elshad Hasanov](https://cancer.osu.edu/find-a-doctor/search-physician-directory/elshad-hasanov/) of Hasanov Lab from [The Ohio State University Comprehensive Cancer Center – The James](https://cancer.osu.edu/).
 
@@ -28,6 +28,8 @@ You can find my CV here: [Peng Li's Curriculum Vitae](../assets/Curriculum_Vitae
 
 
 # 🔥 News
+  - *2024.08 - Present, Graduate Research Associate, Comprehensive Cancer Center.
+- *2024.08 - Present, PhD Student, College of Medicine, The Ohio State University.
 - *2024.03 - 2024.08*, Visiting Scholar, College of Medicine, The Ohio State University.
 - *2024.03*: 🎉🎉 Accepted to the Biomedical Sciences Graduate Program at The Ohio State University. 
 
